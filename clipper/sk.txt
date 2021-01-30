@@ -1,0 +1,51 @@
+NOTAS SOBRE EL SIDEKICK.
+
+SIDEKICK es un programa que se carga una sola vez en la memoria de la
+computadora y se mantiene en ella hasta que la maquina se apague. Para
+cargar el SIDEKICK usted debe escribir en la petici¢n del ms/dos lo
+siguiente:
+
+           A>sk
+
+A continuaci¢n basta con pulsar las teclas CTRL + ALT para ver en la
+pantalla el men£ principal del SIDEKICK. Este men£ est  formado por los
+siguientes programas:
+
+   HELP
+   NOTEPAD
+   CALCULATOR
+   CALENDAR
+   DIALER
+   ASCII-TABLE
+   SETUP
+
+El programa HELP permite ver en la pantalla ayudas sobre el sidekick o
+sobre el comando que se est  ejecutando en un momento especifico.
+
+El programa NOTEPAD es el editor de textos del sidekick, con el se
+pueden crear cartas, documentos, notas, programas etc.
+
+El programa CALCULATOR es una calculadora interna del sidekick que
+aparece en la pantalla para efectuar operaciones matem ticas tal como
+se harian con una calculadora de bolsillo.
+
+El programa CALENDAR es otro programa del sidekick que permite mostrar
+el calendario de cualquier mes y de cualquier a¤o comprendido entre los
+a¤os 1901 y el 2099. Asi mismo contiene un archivo de agenda que permite
+hacer anotaciones en cualquier d¡a entre dichas fechas.
+
+El programa DIALER es un programa que archiva y controla numeros de
+telefonos de personas, empresas etc. Usted puede buscar cualquier n£mero
+de telefono con solo dar una clave como el nombre o direcci¢n.
+
+La tabla ASCII-TABLE es una tabla que aparece en la pantalla y la cual
+permite escribir en la pantalla caracteres que no aparecen normalmente
+en el teclado de la computadora tales como: ¿ À Á Â ³ etc. Con esto se
+puede entonces hacer marcos y recuadros en un documento.
+
+El programa SETUP permite cambiar algunas instalaciones con las que
+viene el SIDEKICK tales como: posici¢n de las ventanas de los programas
+en la pantalla, los nombres del archivo de telefonos o calebdarios etc.
+
+
+
